@@ -1,0 +1,4 @@
+[config]
+project='`dmgcp-training-q4-2021.'
+dataset='DB_FRESHERS_02.'
+table='cust_bal_sourav`'
